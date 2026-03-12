@@ -1,4 +1,5 @@
-This is The First Mostly Playable Version of The Game (Controls Are Left Click to Select Piece, Left Click Again to Move it, Space to Buy a Random Card For a Flat $1000, Left Click on Roulette to Open The Roulette Menu, Drag Around The Slider to Change Bet, and C to Spin The Roulette) 
+This is The First Mostly Playable Version of The Game
+
 Controls: 
 - Left Click to Select Piece
 Left Click Again to Move it
